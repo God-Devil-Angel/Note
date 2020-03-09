@@ -1,0 +1,4 @@
+① 在webpack结构中使用 npm install 安装所依赖的包
+② 代码
+③npm run dev 命令打包
+④npm run build 命令打包发布
