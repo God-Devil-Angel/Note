@@ -1,0 +1,2 @@
+例如：设置：Vue.prototype.$axios=axios
+          全局调用： this.$axios;
